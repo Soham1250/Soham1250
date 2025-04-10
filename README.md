@@ -76,6 +76,8 @@ A comprehensive Flutter application for managing student information, attendance
 - **Real-time Notifications**: Push notifications for important announcements
 - **Offline Support**: Core functionality available without internet connection
 
+- **Advanced Test Engine** : Helps students understand their weaknesses and strengths along with a competitive environment every test
+
 **Technologies used**: Flutter, Dart, Firebase Authentication, Cloud Firestore, Provider State Management
 
 ### DoctorBuddy
